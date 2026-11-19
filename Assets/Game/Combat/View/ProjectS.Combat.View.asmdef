@@ -1,0 +1,1 @@
+{ "name": "ProjectS.Combat.View", "rootNamespace": "ProjectS.Combat.View", "references": ["ProjectS.Data", "ProjectS.Combat.Core", "UnityEngine.UI", "Unity.InputSystem"], "autoReferenced": true }

@@ -1,0 +1,1 @@
+{ "name": "ProjectS.Tests", "rootNamespace": "ProjectS.Tests", "references": ["ProjectS.Data", "ProjectS.Data.Editor", "ProjectS.Combat.Core", "UnityEngine.TestRunner", "UnityEditor.TestRunner"], "includePlatforms": ["Editor"], "overrideReferences": true, "precompiledReferences": ["nunit.framework.dll"], "autoReferenced": false, "defineConstraints": ["UNITY_INCLUDE_TESTS"] }

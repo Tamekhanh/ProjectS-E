@@ -1,0 +1,1 @@
+{ "name": "ProjectS.Data.Editor", "rootNamespace": "ProjectS.Data.Editor", "references": ["ProjectS.Data", "ProjectS.Combat.View"], "includePlatforms": ["Editor"], "autoReferenced": true }

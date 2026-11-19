@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 954e78a92ec041c4eb11d2844809f89f, type: 3}
+  m_Name: Card_Bang_bo
+  m_EditorClassIdentifier: ProjectS.Data::ProjectS.Data.CardData
+  displayName: "B\u0103ng b\xF3"
+  rate: 0
+  apCost: 1
+  description: "H\u1ED3i m\xE1u cho m\u1ED9t \u0111\u1ED3ng \u0111\u1ED9i."
+  hits:
+  - attribute: 4
+    value: 6
+    target: 0
+    status: 0
+    statusAmount: 0
+  forcesAttackStyle: 0
+  forcedAttackStyle: 0
+  impactEffect: 0

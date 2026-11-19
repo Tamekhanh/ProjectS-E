@@ -1,0 +1,1822 @@
+fileFormatVersion: 2
+guid: a679559a90a1839499ac9505cbccf569
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5094612566629643464
+    second: Enemy_Nhay_blunt_ready_0
+  - first:
+      213: 7532743455199096626
+    second: Enemy_Nhay_blunt_ready_1
+  - first:
+      213: -3572471673804501534
+    second: Enemy_Nhay_blunt_ready_2
+  - first:
+      213: 4895137129631552347
+    second: Enemy_Nhay_blunt_ready_3
+  - first:
+      213: 6679773219167946554
+    second: Enemy_Nhay_blunt_ready_4
+  - first:
+      213: 3702412306023793942
+    second: Enemy_Nhay_blunt_ready_5
+  - first:
+      213: -7044701254961275175
+    second: Enemy_Nhay_blunt_ready_6
+  - first:
+      213: -6607738405991507531
+    second: Enemy_Nhay_blunt_ready_7
+  - first:
+      213: 3969434811957455826
+    second: Enemy_Nhay_blunt_ready_8
+  - first:
+      213: 1678429229870719218
+    second: Enemy_Nhay_blunt_ready_9
+  - first:
+      213: 7377692838752649202
+    second: Enemy_Nhay_blunt_ready_10
+  - first:
+      213: 6602382818774317245
+    second: Enemy_Nhay_blunt_ready_11
+  - first:
+      213: 8104043567729023122
+    second: Enemy_Nhay_blunt_ready_12
+  - first:
+      213: -3445756839226227851
+    second: Enemy_Nhay_blunt_ready_13
+  - first:
+      213: -8699300761782554375
+    second: Enemy_Nhay_blunt_ready_14
+  - first:
+      213: 8650123401045141517
+    second: Enemy_Nhay_blunt_ready_15
+  - first:
+      213: -5816553309124547986
+    second: Enemy_Nhay_blunt_ready_16
+  - first:
+      213: -3845190360716553585
+    second: Enemy_Nhay_blunt_ready_17
+  - first:
+      213: -4913736906496738685
+    second: Enemy_Nhay_blunt_ready_18
+  - first:
+      213: -3048161249381829440
+    second: Enemy_Nhay_blunt_ready_19
+  - first:
+      213: 1281392766030120797
+    second: Enemy_Nhay_blunt_ready_20
+  - first:
+      213: 689579341547483739
+    second: Enemy_Nhay_blunt_ready_21
+  - first:
+      213: 7660754168573857992
+    second: Enemy_Nhay_blunt_ready_22
+  - first:
+      213: 2986180723502243127
+    second: Enemy_Nhay_blunt_ready_23
+  - first:
+      213: -7553088030527404711
+    second: Enemy_Nhay_blunt_ready_24
+  - first:
+      213: -6746467207377620448
+    second: Enemy_Nhay_blunt_ready_25
+  - first:
+      213: 799193562187347415
+    second: Enemy_Nhay_blunt_ready_26
+  - first:
+      213: -9181322714062043187
+    second: Enemy_Nhay_blunt_ready_27
+  - first:
+      213: -898910659384899108
+    second: Enemy_Nhay_blunt_ready_28
+  - first:
+      213: 5666334180842111267
+    second: Enemy_Nhay_blunt_ready_29
+  - first:
+      213: -1718933662284141744
+    second: Enemy_Nhay_blunt_ready_30
+  - first:
+      213: -7115037844196429393
+    second: Enemy_Nhay_blunt_ready_31
+  - first:
+      213: -3702324716206228655
+    second: Enemy_Nhay_blunt_ready_32
+  - first:
+      213: 4005633654730902675
+    second: Enemy_Nhay_blunt_ready_33
+  - first:
+      213: -4467494937995805611
+    second: Enemy_Nhay_blunt_ready_34
+  - first:
+      213: -632470660440055103
+    second: Enemy_Nhay_blunt_ready_35
+  - first:
+      213: 3717767811287376456
+    second: Enemy_Nhay_blunt_ready_36
+  - first:
+      213: 8412442019595362556
+    second: Enemy_Nhay_blunt_ready_37
+  - first:
+      213: -1352701194884370528
+    second: Enemy_Nhay_blunt_ready_38
+  - first:
+      213: -8023121489260721333
+    second: Enemy_Nhay_blunt_ready_39
+  - first:
+      213: -7951947458057684875
+    second: Enemy_Nhay_blunt_ready_40
+  - first:
+      213: -7628846127159923208
+    second: Enemy_Nhay_blunt_ready_41
+  - first:
+      213: -1967317202955305861
+    second: Enemy_Nhay_blunt_ready_42
+  - first:
+      213: -451299532074822938
+    second: Enemy_Nhay_blunt_ready_43
+  - first:
+      213: -2613864598735851044
+    second: Enemy_Nhay_blunt_ready_44
+  - first:
+      213: -326106375794892566
+    second: Enemy_Nhay_blunt_ready_45
+  - first:
+      213: 2123467687162248390
+    second: Enemy_Nhay_blunt_ready_46
+  - first:
+      213: 8244505665603327133
+    second: Enemy_Nhay_blunt_ready_47
+  - first:
+      213: -3635317312106816236
+    second: Enemy_Nhay_blunt_ready_48
+  - first:
+      213: 3458915812618282400
+    second: Enemy_Nhay_blunt_ready_49
+  - first:
+      213: -6736005049872807421
+    second: Enemy_Nhay_blunt_ready_50
+  - first:
+      213: -8880879385827628169
+    second: Enemy_Nhay_blunt_ready_51
+  - first:
+      213: -224214050516403102
+    second: Enemy_Nhay_blunt_ready_52
+  - first:
+      213: -3981550928395366344
+    second: Enemy_Nhay_blunt_ready_53
+  - first:
+      213: -3815744552620692621
+    second: Enemy_Nhay_blunt_ready_54
+  - first:
+      213: -4034986350165723279
+    second: Enemy_Nhay_blunt_ready_55
+  - first:
+      213: -10184735001585693
+    second: Enemy_Nhay_blunt_ready_56
+  - first:
+      213: -6610981595275268871
+    second: Enemy_Nhay_blunt_ready_57
+  - first:
+      213: -7794845443066565257
+    second: Enemy_Nhay_blunt_ready_58
+  - first:
+      213: -3499761838629758973
+    second: Enemy_Nhay_blunt_ready_59
+  - first:
+      213: -156956441676117281
+    second: Enemy_Nhay_blunt_ready_60
+  - first:
+      213: 6350036443258822826
+    second: Enemy_Nhay_blunt_ready_61
+  - first:
+      213: 1715547774351214379
+    second: Enemy_Nhay_blunt_ready_62
+  - first:
+      213: -6991024780920434165
+    second: Enemy_Nhay_blunt_ready_63
+  - first:
+      213: -1406723075274332275
+    second: Enemy_Nhay_blunt_ready_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 869
+        width: 588
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4733e0323b3b640800000000000000
+      internalID: 5094612566629643464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 997
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f6a47234ea98860800000000000000
+      internalID: 7532743455199096626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 964
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edccb0c0f70c6ec0800000000000000
+      internalID: -3572471673804501534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 966
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53938aa8450fe340800000000000000
+      internalID: 4895137129631552347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 965
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a374ca41a5253bc50800000000000000
+      internalID: 6679773219167946554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 968
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6154598406c916330800000000000000
+      internalID: 3702412306023793942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_6
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 968
+        width: 86
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ded84578813c3e90800000000000000
+      internalID: -7044701254961275175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 949
+        width: 373
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b99b26dde89c44a0800000000000000
+      internalID: -6607738405991507531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_8
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 921
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db2bc53ee3461730800000000000000
+      internalID: 3969434811957455826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_9
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 933
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0a31bed7afa4710800000000000000
+      internalID: 1678429229870719218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_10
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 901
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff7bc35c84d26660800000000000000
+      internalID: 7377692838752649202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_11
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 930
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87f28513060ab50800000000000000
+      internalID: 6602382818774317245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_12
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 883
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29817c210b8577070800000000000000
+      internalID: 8104043567729023122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_13
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 915
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5734c8f39663e20d0800000000000000
+      internalID: -3445756839226227851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 1237
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f07aab4c00e54780800000000000000
+      internalID: -8699300761782554375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 871
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08e69627696b0870800000000000000
+      internalID: 8650123401045141517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 859
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a22803593774fa0800000000000000
+      internalID: -5816553309124547986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_17
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 859
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82dbb75db323aac0800000000000000
+      internalID: -3845190360716553585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_18
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 851
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38af8805156eecbb0800000000000000
+      internalID: -4913736906496738685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_19
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 854
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c43c785e71c2b5d0800000000000000
+      internalID: -3048161249381829440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_20
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 840
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d570bfc7eeb68c110800000000000000
+      internalID: 1281392766030120797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_21
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 851
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52b261f1c0e19900800000000000000
+      internalID: 689579341547483739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c01071f357705a60800000000000000
+      internalID: 7660754168573857992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 369
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d587beb8b017920800000000000000
+      internalID: 2986180723502243127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 244
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955c827447a0e2790800000000000000
+      internalID: -7553088030527404711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 124
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0227f67b1dbbf52a0800000000000000
+      internalID: -6746467207377620448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 49
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5b4fc7f4e471b00800000000000000
+      internalID: 799193562187347415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc74b14e2a3659080800000000000000
+      internalID: -9181322714062043187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 95
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd90d86948d6683f0800000000000000
+      internalID: -898910659384899108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 110
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3218fbb7aecd2ae40800000000000000
+      internalID: 5666334180842111267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 33
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ba71301fe1528e0800000000000000
+      internalID: -1718933662284141744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_31
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 85
+        width: 19
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1f53d17ce424d90800000000000000
+      internalID: -7115037844196429393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_32
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 71
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf06f4943be9cc0800000000000000
+      internalID: -3702324716206228655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_33
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 31
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cc592169ed69730800000000000000
+      internalID: 4005633654730902675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_34
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 79
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c77e016054002c0800000000000000
+      internalID: -4467494937995805611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_35
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 21
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c22d9909430937f0800000000000000
+      internalID: -632470660440055103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_36
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 9
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8426a25702a289330800000000000000
+      internalID: 3717767811287376456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_37
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 119
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf02d8f127ffeb470800000000000000
+      internalID: 8412442019595362556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_38
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 113
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afabaf1e6d3a3de0800000000000000
+      internalID: -1352701194884370528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_39
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 103
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bcfca838528a090800000000000000
+      internalID: -8023121489260721333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 103
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578b6e90be105a190800000000000000
+      internalID: -7951947458057684875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 79
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fda480edd4e02690800000000000000
+      internalID: -7628846127159923208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 47
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c755d5d6fa2b4e0800000000000000
+      internalID: -1967317202955305861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 49
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e251677779acb9f0800000000000000
+      internalID: -451299532074822938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_44
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 33
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1716d0fffa9bbd0800000000000000
+      internalID: -2613864598735851044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_45
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 101
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae061cf9aff697bf0800000000000000
+      internalID: -326106375794892566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 83
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc73516c92187d10800000000000000
+      internalID: 2123467687162248390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 77
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d945bfab83e5a6270800000000000000
+      internalID: 8244505665603327133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_48
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 22
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d9b065a22cc8dc0800000000000000
+      internalID: -3635317312106816236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_49
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 65
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5281ffa99800030800000000000000
+      internalID: 3458915812618282400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_50
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 47
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a08159817e482a0800000000000000
+      internalID: -6736005049872807421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_51
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 61
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ba7a26047c0c480800000000000000
+      internalID: -8880879385827628169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_52
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 47
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c715d428e63ecf0800000000000000
+      internalID: -224214050516403102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_53
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 51
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8301ed99680beb8c0800000000000000
+      internalID: -3981550928395366344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_54
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 49
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b696bcb80cb0bc0800000000000000
+      internalID: -3815744552620692621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_55
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 63
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17772d4fa49d008c0800000000000000
+      internalID: -4034986350165723279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_56
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 35
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e759189901dbdff0800000000000000
+      internalID: -10184735001585693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_57
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fce8fcf3431144a0800000000000000
+      internalID: -6610981595275268871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_58
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 30
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77de1fe4e5523d390800000000000000
+      internalID: -7794845443066565257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_59
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 31
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308510a76295e6fc0800000000000000
+      internalID: -3499761838629758973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_60
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 21
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda8fa8a2f062ddf0800000000000000
+      internalID: -156956441676117281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_61
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 39
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa02a3f408cdf1850800000000000000
+      internalID: 6350036443258822826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_62
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 15
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b278a658c99dec710800000000000000
+      internalID: 1715547774351214379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_63
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02d8457004eafe90800000000000000
+      internalID: -6991024780920434165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Nhay_blunt_ready_64
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 18
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87ade0f0d05a7ce0800000000000000
+      internalID: -1406723075274332275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy_Nhay_blunt_ready_0: 5094612566629643464
+      Enemy_Nhay_blunt_ready_1: 7532743455199096626
+      Enemy_Nhay_blunt_ready_10: 7377692838752649202
+      Enemy_Nhay_blunt_ready_11: 6602382818774317245
+      Enemy_Nhay_blunt_ready_12: 8104043567729023122
+      Enemy_Nhay_blunt_ready_13: -3445756839226227851
+      Enemy_Nhay_blunt_ready_14: -8699300761782554375
+      Enemy_Nhay_blunt_ready_15: 8650123401045141517
+      Enemy_Nhay_blunt_ready_16: -5816553309124547986
+      Enemy_Nhay_blunt_ready_17: -3845190360716553585
+      Enemy_Nhay_blunt_ready_18: -4913736906496738685
+      Enemy_Nhay_blunt_ready_19: -3048161249381829440
+      Enemy_Nhay_blunt_ready_2: -3572471673804501534
+      Enemy_Nhay_blunt_ready_20: 1281392766030120797
+      Enemy_Nhay_blunt_ready_21: 689579341547483739
+      Enemy_Nhay_blunt_ready_22: 7660754168573857992
+      Enemy_Nhay_blunt_ready_23: 2986180723502243127
+      Enemy_Nhay_blunt_ready_24: -7553088030527404711
+      Enemy_Nhay_blunt_ready_25: -6746467207377620448
+      Enemy_Nhay_blunt_ready_26: 799193562187347415
+      Enemy_Nhay_blunt_ready_27: -9181322714062043187
+      Enemy_Nhay_blunt_ready_28: -898910659384899108
+      Enemy_Nhay_blunt_ready_29: 5666334180842111267
+      Enemy_Nhay_blunt_ready_3: 4895137129631552347
+      Enemy_Nhay_blunt_ready_30: -1718933662284141744
+      Enemy_Nhay_blunt_ready_31: -7115037844196429393
+      Enemy_Nhay_blunt_ready_32: -3702324716206228655
+      Enemy_Nhay_blunt_ready_33: 4005633654730902675
+      Enemy_Nhay_blunt_ready_34: -4467494937995805611
+      Enemy_Nhay_blunt_ready_35: -632470660440055103
+      Enemy_Nhay_blunt_ready_36: 3717767811287376456
+      Enemy_Nhay_blunt_ready_37: 8412442019595362556
+      Enemy_Nhay_blunt_ready_38: -1352701194884370528
+      Enemy_Nhay_blunt_ready_39: -8023121489260721333
+      Enemy_Nhay_blunt_ready_4: 6679773219167946554
+      Enemy_Nhay_blunt_ready_40: -7951947458057684875
+      Enemy_Nhay_blunt_ready_41: -7628846127159923208
+      Enemy_Nhay_blunt_ready_42: -1967317202955305861
+      Enemy_Nhay_blunt_ready_43: -451299532074822938
+      Enemy_Nhay_blunt_ready_44: -2613864598735851044
+      Enemy_Nhay_blunt_ready_45: -326106375794892566
+      Enemy_Nhay_blunt_ready_46: 2123467687162248390
+      Enemy_Nhay_blunt_ready_47: 8244505665603327133
+      Enemy_Nhay_blunt_ready_48: -3635317312106816236
+      Enemy_Nhay_blunt_ready_49: 3458915812618282400
+      Enemy_Nhay_blunt_ready_5: 3702412306023793942
+      Enemy_Nhay_blunt_ready_50: -6736005049872807421
+      Enemy_Nhay_blunt_ready_51: -8880879385827628169
+      Enemy_Nhay_blunt_ready_52: -224214050516403102
+      Enemy_Nhay_blunt_ready_53: -3981550928395366344
+      Enemy_Nhay_blunt_ready_54: -3815744552620692621
+      Enemy_Nhay_blunt_ready_55: -4034986350165723279
+      Enemy_Nhay_blunt_ready_56: -10184735001585693
+      Enemy_Nhay_blunt_ready_57: -6610981595275268871
+      Enemy_Nhay_blunt_ready_58: -7794845443066565257
+      Enemy_Nhay_blunt_ready_59: -3499761838629758973
+      Enemy_Nhay_blunt_ready_6: -7044701254961275175
+      Enemy_Nhay_blunt_ready_60: -156956441676117281
+      Enemy_Nhay_blunt_ready_61: 6350036443258822826
+      Enemy_Nhay_blunt_ready_62: 1715547774351214379
+      Enemy_Nhay_blunt_ready_63: -6991024780920434165
+      Enemy_Nhay_blunt_ready_64: -1406723075274332275
+      Enemy_Nhay_blunt_ready_7: -6607738405991507531
+      Enemy_Nhay_blunt_ready_8: 3969434811957455826
+      Enemy_Nhay_blunt_ready_9: 1678429229870719218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
